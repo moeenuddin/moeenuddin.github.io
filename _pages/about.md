@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='http://nu.edu.pk' target="_blank">Fast-NUCES</a><a href='http://lums.edu.pk' target="_blank">LUMS</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: moeen-profile-pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    
+    <p>201 HH DHA 4 street 10</p>
+    <p>Lahore, Pakistan</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a passionate software engineer and researcher with over a decade of experience in backend development, AI/NLP, and data science. My journey bridges the gap between academic research and industry-driven development, enabling me to deliver cutting-edge solutions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My expertise spans designing robust systems, developing scalable data pipelines, and deploying machine learning models in production environments. With a strong foundation in Node.js, Python, and Azure Cloud, I thrive on tackling complex challenges, whether it's optimizing infrastructure or exploring innovative AI applications.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+On the research front, my work includes publications in social media analytics and AI-based systems. I’ve contributed to projects ranging from tweet classification to persona mapping and predictive modeling. I'm passionate about open-source contributions and building tools that make a tangible impact.
+
+Feel free to explore my repositories, where I share projects focused on machine learning, web development, and DevOps, reflecting my commitment to continuous learning and innovation.
