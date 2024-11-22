@@ -13,8 +13,8 @@ profile:
     <p>201 HH DHA 4 street 10</p>
     <p>Lahore, Pakistan</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+#news: true # includes a list of news items
+#selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started teaching at ITU Fall 2024. Web design and development
