@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='http://nu.edu.pk' target="_blank">Fast-NUCES</a><a href='http://lums.edu.pk' target="_blank">LUMS</a>. Address. Contacts. Motto. Etc.
+subtitle: Data Specialist and Full stack 
 
 profile:
   align: right
