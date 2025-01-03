@@ -7,7 +7,6 @@
       value: 9th August 1981
     - name: Languages
       value: English, Urdu, Punjabi, Pushtu
-
 - title: Education
   type: time_table
   contents:
@@ -17,7 +16,6 @@
       description:
         - Intelligent Computing, Pervasive Computing, Data mining, Advanced Topics in Data mining
         - Recommendation Systems, Social Networks
-
 - title: Experience
   type: time_table
   contents:
@@ -26,14 +24,12 @@
       year: 2024 
       description:
         - Taught course on MERN stack.
-
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2001 - 2005
       items:
         - Need-cum-merit Fee waiver award 50%
-
 - title: Academic Interests
   type: nested_list
   contents:
@@ -44,7 +40,6 @@
     - title: Trustworthy AI Augementation.
       items:
         - Creative and cultural nuances in collaborative work
-
 - title: Other Interests
   type: list
   contents:
