@@ -13,8 +13,8 @@ profile:
     <p>201 HH DHA 4 street 10</p>
     <p>Lahore, Pakistan</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -24,4 +24,4 @@ My expertise spans designing robust systems, developing scalable data pipelines,
 
 On the research front, my work includes publications in social media analytics and AI-based systems. I’ve contributed to projects ranging from tweet classification to persona mapping and predictive modeling. I'm passionate about open-source contributions and building tools that make a tangible impact.
 
-Feel free to explore my repositories, where I share projects focused on machine learning, web development, and DevOps, reflecting my commitment to continuous learning and innovation.
+Feel free to explore my repositories, where I share projects focused on machine learning, web development, and DevOps, reflecting my commitment to continuous learning and innovation. 
