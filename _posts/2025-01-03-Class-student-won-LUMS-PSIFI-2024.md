@@ -15,6 +15,6 @@ I feel pleasure to announce that students achieve big in LUMS PSIFI Dec 2024. Ma
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/student-win-lums-psifi-2024.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/student-win-psifi-2024.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
