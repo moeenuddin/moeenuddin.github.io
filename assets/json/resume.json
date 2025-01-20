@@ -136,16 +136,14 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Data Analysis",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Big Data",
+        "Predictive Modeling",
+        "Behavior Analysis",
+        "Data steward"
       ]
     }
   ],
@@ -163,28 +161,27 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Online Social behavior",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Recommendation system",
+        "Team interactions",
+        "Machine learning",
+        "NLP",
+        "Trusthworthy AI"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Imran Gondal",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Director Development, Discourse analytics"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Professor Asim Karim",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Lums"
     }
   ],
   "projects": [
