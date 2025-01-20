@@ -1,36 +1,36 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Muhammad Moeenuddin",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "getmoeen@gmail.com",
+    "phone": "(0092)",
+    "url": "https://moeenuddin.github.io/",
+    "summary": "A Data specialist",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "DHA HH",
+      "postalCode": "50000",
+      "city": "Lahore",
+      "countryCode": "PK",
+      "region": "Punjab"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "username": "getmoeen",
+        "url": "https://twitter.com/getmoeen"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Discourse Analytics",
+      "position": "Senior Software Engineer",
+      "url": "https://discourseanalytics.com",
+      "startDate": "2015-09-05",
+      "endDate": "2024-01-15",
+      "summary": "Full stack, Devops, Data analytics",
+      "highlights": ["Data"]
     }
   ],
   "volunteer": [
@@ -47,15 +47,15 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
+      "institution": "Lahore university of management science, Pakistan",
+      "location": "Lahore, Pakistan",
+      "url": "https://www.lums.edu.pk/",
       "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "studyType": "MS",
+      "startDate": "2009-08-01",
+      "endDate": "2012-04-01",
+      "score": "3.03",
+      "courses": ["Adv Topics in Data mining"]
     }
   ],
   "awards": [
@@ -151,7 +151,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Urdu",
       "fluency": "Native speaker",
       "icon": ""
     },
