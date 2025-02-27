@@ -1,3 +1,14 @@
+---
+layout: page
+title: Misra - A Delightful Journey Through Urdu Poetry
+description: Misra - A Delightful Journey Through Urdu Poetry
+img: assets/img/12.jpg
+importance: 1
+category: work
+related_publications: false
+---
+
+
 # **Misra - A Delightful Journey Through Urdu Poetry**  
 
 ## **Can You Guess the Next Misra?**  
