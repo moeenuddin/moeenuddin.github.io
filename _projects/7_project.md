@@ -9,8 +9,6 @@ related_publications: false
 ---
 
 
-# **Misra - A Delightful Journey Through Urdu Poetry**  
-
 ## **Can You Guess the Next Misra?**  
 Step into the enchanting world of Urdu poetry! **Misra** brings you a captivating challenge—match the perfect poetic line and immerse yourself in the magic of words.  
 
@@ -29,3 +27,5 @@ Step into the enchanting world of Urdu poetry! **Misra** brings you a captivatin
 📖 **Share & Enjoy with Friends**  
 
 👉 **Sign Up Now** & Begin Your Poetry Adventure!  
+
+visit www.dosramisra.com
