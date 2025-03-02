@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Misra - A Delightful Journey Through Urdu Poetry
-description: Misra - A Delightful Journey Through Urdu Poetry
+title: Dosra Misra - A Delightful Journey Through Urdu Poetry
+description: Dosra Misra - A Delightful Journey Through Urdu Poetry
 img: assets/img/12.jpg
 importance: 1
 category: work
@@ -10,7 +10,10 @@ related_publications: false
 
 
 ## **Can You Guess the Next Misra?**  
-Step into the enchanting world of Urdu poetry! **Misra** brings you a captivating challenge—match the perfect poetic line and immerse yourself in the magic of words.  
+Step into the enchanting world of Urdu poetry! **DosraMisra** brings you a captivating challenge—match the perfect poetic line and immerse yourself in the magic of words. 
+
+[Dosramisra - Official Website](https://www.dosramisra.com "Visit Dosramisra - Official Website")
+
 
 ### **How It Works:**  
 1️⃣ **Read** a famous **misra** (verse) from legendary Urdu poets.  
@@ -28,4 +31,3 @@ Step into the enchanting world of Urdu poetry! **Misra** brings you a captivatin
 
 👉 **Sign Up Now** & Begin Your Poetry Adventure!  
 
-visit www.dosramisra.com
