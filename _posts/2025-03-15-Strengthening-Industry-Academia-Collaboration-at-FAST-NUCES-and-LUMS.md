@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Strengthening Industry-Academia Collaboration at FAST NUCES & LUMS
+title: Strengthening Industry-Academia Collaboration at FAST NUCES and LUMS
 date: 2025-03-15 00:20:00
 last_updated: 2025-03-15 04:30:00
 description: Industry Academia Collaboration and giving back to society LUMS and Fast NUCES
 tags: news
-categories: new
 ---
 
 Over the past two years, I have had the privilege of serving on the Industrial Advisory Board (IAB) at FAST NUCES, Peshawar, and contributing as a mentor for the Data Science track at LUMS. These roles have allowed me to bridge academia and industry, ensuring students gain relevant skills for real-world challenges.
