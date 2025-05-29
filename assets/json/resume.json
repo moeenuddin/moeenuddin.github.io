@@ -35,14 +35,14 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "FAST NUCES",
+      "location": " Peshawar",
+      "position": "Industry Advisor",
+      "url": "https://www.nu.edu.pk",
+      "startDate": "2024-08-01",
+      "endDate": "2024-09-01",
+      "summary": "Advisor to the Industry Advisory Board"
+      
     }
   ],
   "education": [
@@ -50,7 +50,7 @@
       "institution": "Lahore university of management science, Pakistan",
       "location": "Lahore, Pakistan",
       "url": "https://www.lums.edu.pk/",
-      "area": "Software Development",
+      "area": "Software Development, Data mining and A.I, Recommendation system",
       "studyType": "MS",
       "startDate": "2009-08-01",
       "endDate": "2012-04-01",
@@ -70,7 +70,7 @@
   "certificates": [
     {
       "name": "Machine Learning",
-      "date": "2018-01-01",
+      "date": "2025-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
@@ -78,25 +78,25 @@
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Understanding Types of Users on Twitter",
+      "publisher": "Researchgate",
+      "releaseDate": "2014-06-05",
+      "url": "https://arxiv.org/pdf/1406.1335",
+      "summary": "People use microblogging platforms like Twitter to involve with other users for a wide range of interests and practices. Twitter profiles run by different types of users such as humans, bots, spammers, businesses and professionals. This research work identifies six broad classes of Twitter users, and employs a supervised machine learning approach which uses a comprehensive set of features to classify users into the identified classes. For this purpose, we exploit users' profile and tweeting behavior information. We evaluate our approach by performing 10-fold cross validation using manually annotated 716 different Twitter profiles. High classification accuracy (measured using AUC, and precision, recall) reveals the significance of the proposed approach."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "An Unsupervised Method for Discovering Lexical Variations in Roman Urdu Informal Text",
+      "publisher": "ACL",
+      "releaseDate": "2015-09-01",
+      "url": "https://aclanthology.org/D15-1097.pdf",
+      "summary": "We present an unsupervised method to find lexical variations in Roman Urdu informal text. Our method includes a phonetic algorithm UrduPhone, a feature-based similarity function, and a clustering algorithm Lex-C. UrduPhone encodes roman Urdu strings to their phonetic equivalent representations. This produces an initial grouping of different spelling variations of a word. The similarity function incorporates word features and their context. Lex-C is a variant of k-medoids clustering algorithm that group lexical variations. It incorporates a similarity threshold to balance the number of clusters and their maximum similarity. We test our system on two datasets of SMS and blogs and show an f-measure gain of up to 12% from baseline systems."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Personalized versus non-personalized tag recommendation: A suitability study on three social networks",
+      "publisher": "IEEE INMIC",
+      "releaseDate": "2011-12-22",
+      "url": "https://d1wqtxts1xzle7.cloudfront.net/71115440/Personalized_versus_non-personalized_tag20211003-560-1kcgeci.pdf?1738431481=&response-content-disposition=inline%3B+filename%3DPersonalized_versus_non_personalized_tag.pdf&Expires=1748484463&Signature=SAFaMiCDfYUAx81AmnBfXZl1NBhAIUlydUi95Ph5aX5ajN~IsvDoLFeqiA6D9jLNvdX69BOR~pTQVM2XW6BCm8xQkXNSfw7ePgOY6UnUbsZGvCKzt4x83GYBXD61dPOJBLXPETMh-RlP4b37~gCPMsfiuvhj82mN7Yix9eEmXJvj94OChKv~hKDGfoacaxR7tEGn5IfAqeWHmDojufJsmWMPJPsq32hqyawhALfpL~mFGAbltUV298P1VFmXFSxYhH9XQW5C4Ip9NUDtrRIi0f~1ssdzCCgsAn7UbORwvn1qBZgzjrc03Ulo0FkqB1L9FNIs6YR2bHxu~QMp4fQA0w__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA",
+      "summary": "Tag recommendation systems are either personalized or non-personalized. Personalized tag recommendation utilizes a user's tagging behavior from her tagging history for predictions. Whereas non-personalized recommendation systems recommend what is popular and relevant to the user. In this study, we have analyzed the role of personal tagging history in recommending tags. The experiments are done on three folksonomy datasets: Delicious, Flickr and Bibsonomy. Important results for three popular tag recommendation algorithms: PITF, FolkRank and Adapted PageRank are reported in terms of prediction quality. It is found that users' history usage preferences change across all data sets; hence overall prediction quality of personalized recommendation system may suffer. We discover a generic life cycle of folksonomy users on the basis of their history usage. We propose this life cycle can be used to improved."
     }
   ],
   "skills": [
