@@ -42,7 +42,7 @@ A sample romantic novel has been included to test how well the chatbot understan
 
 * *"What is the main conflict in the story?"*
 * *"Describe the relationship between the two lead characters."*
-* *"Where does the story take place?"*
+* *"Where does the story take place??"*
 
 ---
 
