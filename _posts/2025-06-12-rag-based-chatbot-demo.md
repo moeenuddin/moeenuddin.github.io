@@ -24,7 +24,9 @@ A sample romantic novel has been included to test how well the chatbot understan
 
 🚀 **Try it out here**:
 
-https://rag-chatbot-4wztcil2dtr5ff6tn6tjc2.streamlit.app/
+
+[RagChatbot - Novels](https://rag-chatbot-4wztcil2dtr5ff6tn6tjc2.streamlit.app "Visit Demo")
+
 ---
 
 ## 🛠️ Use Cases
