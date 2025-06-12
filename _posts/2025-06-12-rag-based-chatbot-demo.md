@@ -23,8 +23,8 @@ This bot is designed to intelligently **query and answer questions** based on th
 A sample romantic novel has been included to test how well the chatbot understands and responds to questions from the story.
 
 🚀 **Try it out here**:
-👉 [Click to launch the demo](https://rag-chatbot-4wztcil2dtr5ff6tn6tjc2.streamlit.app/)
 
+https://rag-chatbot-4wztcil2dtr5ff6tn6tjc2.streamlit.app/
 ---
 
 ## 🛠️ Use Cases
