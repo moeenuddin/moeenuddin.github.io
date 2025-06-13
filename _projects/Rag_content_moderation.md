@@ -4,7 +4,7 @@ title: RAG content moderation
 description: RAG content moderation
 img: assets/img/12.jpg
 importance: 1
-category: demo
+category: fun
 related_publications: false
 ---
 
