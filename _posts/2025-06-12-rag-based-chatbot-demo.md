@@ -25,7 +25,7 @@ A sample romantic novel has been included to test how well the chatbot understan
 🚀 **Try it out here**:
 
 
-[RagChatbot - Novels Visit Demo](https://moeenuddin.github.io/projects/dosra_misra/)
+[RagChatbot - Novels Visit Demo](https://moeenuddin.github.io/projects/Rag_content_moderation/)
 
 ---
 
